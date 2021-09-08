@@ -1,6 +1,9 @@
 # Formula_one_api
 Project that will use the data of the selected API
 
+### API
+https://documenter.getpostman.com/view/11586746/SztEa7bL
+
 ## Project is intended to run with AWS CodePipeline via AWS CodeCommit, the github project is just for demonstration
 
 ## How to run
