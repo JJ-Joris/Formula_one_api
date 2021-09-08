@@ -10,4 +10,5 @@ Run "main.py"
 
 ## Output
 - A table will be shown with all start & finish positions of the driver in the selected season. Together with the scored points
+- 
 ![image](https://user-images.githubusercontent.com/62589777/132458346-bd629b62-c4ff-430a-b4d2-6bb01b4f5ea0.png)
