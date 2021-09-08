@@ -1,6 +1,8 @@
 # Formula_one_api
 Project that will use the data of the selected API
 
+## Project is intended to run with AWS CodePipeline via AWS CodeCommit, the github project is just for demonstration
+
 ## How to run
 -Install all modules listed in "requirements.txt"
 -In "main.py" set variables year & driver to the desired F1 season & F1 driver
